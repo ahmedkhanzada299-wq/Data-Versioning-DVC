@@ -1,0 +1,7 @@
+mkdir
+dvc
+init
+dvcignore
+myremote
+gitignore
+upto
